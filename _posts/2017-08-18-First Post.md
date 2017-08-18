@@ -15,6 +15,4 @@ Previous posts were for testing!
 
 ![beer]({{ site.baseurl }}/assets/20161226_124829.jpg)
 
-![beer image]({{ site.baseurl }}/assets/20161226_124829.jpg)
-
-<img src="{{ site.baseurl }}/assets/20161226_124829.jpg>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nv0peny62q4" frameborder="0" allowfullscreen></iframe>
