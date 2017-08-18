@@ -13,4 +13,4 @@ Previous posts were for testing!
 [link to my unfinished Apertium-based Korean transducer git repo](https://github.com/mindoj/kor-transducer)
 
 
-![beer](mindoj.github.io/assets/20161226_124829.jpg){:class="img-responsive"}
+![beer](mindoj.github.io/assets/20161226_124829.jpg)
