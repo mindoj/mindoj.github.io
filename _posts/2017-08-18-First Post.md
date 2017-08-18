@@ -10,4 +10,4 @@ Previous posts were for testing!
 
 *italics*
 
-[link to my unfinished korean transducer git repo][https://github.com/mindoj/kor-transducer]
+[link to my unfinished korean transducer git repo](https://github.com/mindoj/kor-transducer)
