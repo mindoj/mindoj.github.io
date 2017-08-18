@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post
+title: First post
 category: post
 tags: [post, test]
 ---
