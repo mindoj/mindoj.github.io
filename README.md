@@ -1,2 +1,2 @@
-# samjamdp.github.io
+# mindoj.github.io
 
