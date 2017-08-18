@@ -11,3 +11,6 @@ Previous posts were for testing!
 *italics*
 
 [link to my unfinished Apertium-based Korean transducer git repo](https://github.com/mindoj/kor-transducer)
+
+
+![beer](./_images/20161226_124829.jpg){:class="img-responsive"}
