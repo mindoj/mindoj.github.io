@@ -14,3 +14,4 @@ Previous posts were for testing!
 
 
 ![beer]({{ site.baseurl }}/assets/20161226_124829.jpg)
+<img src="{{ site.baseurl }}/assets/20161226_124829.jpg>
