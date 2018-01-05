@@ -1,2 +1,2 @@
-# mindoj.github.io
+# mindoj - my blog
 
