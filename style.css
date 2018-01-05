@@ -18,6 +18,8 @@ body>header h4 {
 h1,h2,h3,h4 {
     width: 100%;
     min-width: 840px;
+    background-color: green;
+
 }
 
 hr {
@@ -35,7 +37,7 @@ pre {
 }
 
 code {
-    background-color: lightblue;
+    background-color: #E8E8E8;
     padding-left: 3px;
     padding-right: 3px;
 }
